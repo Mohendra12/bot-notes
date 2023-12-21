@@ -1,7 +1,13 @@
-body {
-    font-size: 15pt;
-}
+/*body {
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}*/
 img {
+  float: right;
   height: 200px;
-  width: 200px;
+  width:200px;
+  
 }
